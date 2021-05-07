@@ -1,2 +1,2 @@
 # damato.github.io
-Public repo for some dev related things that Daniel builds.
+A public webpage, all about Daniel M. Tomlinson.
