@@ -1,2 +1,5 @@
-# damato.github.io
-A public webpage, all about Daniel M. Tomlinson.
+# Default repository and home
+This is the default repo and public webpage for Daniel M. Tomlinson (damato).
+
+## Visit the live site here:
+http://damato.github.io
